@@ -13,3 +13,5 @@ Our plan is to
 - apply the resulting model to the testing set
 - compare the testing statistics to the training statistics (ex. accuracy) in a table or visualization such as a tree
 - return to the decision trees to determine the strongest attributes leading to a salary greater than $50,000.
+
+Script to load the dataset: ???????????????????
