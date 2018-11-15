@@ -1,4 +1,4 @@
-# adult_income_prediction_project
+# Proposal
 
 The public data set for our project is https://archive.ics.uci.edu/ml/datasets/Adult from UCI machine learning repository. The data for this project is from the 1994 us census database. 
 
