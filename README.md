@@ -1,5 +1,10 @@
 # Proposal
 
+## Team Members
+
+[Olivia Lin]https://github.com/olivia-lin
+[Makkaoui Mohamad]https://github.com/mani
+
 
 ## Dataset
 The public data set for our project is https://archive.ics.uci.edu/ml/datasets/Adult from UCI machine learning repository. The data for this project is from the 1994 us census database. 
